@@ -1,4 +1,4 @@
-# Lecture #12: Query Processing I
+# Lecture #12: Query Execution I
 
 ## *1. Query Plan（查询计划）*
 
